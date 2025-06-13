@@ -1,0 +1,6 @@
+Income,Salary,234556.0,2025-06-07
+Expense,Travel,45677.0,2025-06-11
+Income,Salary,234456.0,2025-06-01
+Expense,Rent,5000.0,2025-06-07
+Income,Salary,200000.0,2025-03-05
+Expense,Rent,4000.0,2025-03-07
